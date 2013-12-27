@@ -2,8 +2,9 @@
 
 /*****
 *
-* This is based on Example 1 in Hour 1 of the SAMS book.
+* This is based on Listing 1.1 in Hour 1 of the SAMS book.
 * Not much to vary here, I guess. It is a basic webserver.
+* I added the port and host variables to the top.
 *
 *****/
 
