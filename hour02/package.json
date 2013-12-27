@@ -1,0 +1,7 @@
+{
+    "name": "npmdemo",
+    "version": "0.0.2",
+    "dependencies": {
+        "underscore": "~1.5.2"
+    }
+}
