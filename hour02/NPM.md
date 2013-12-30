@@ -23,9 +23,13 @@ been made or a forced update of the package list is ordered.
 
 ### npm info
 
+### npm view
+
+### npm update
+
 ### npm install
 
-### npm remove
+### npm remove, un, uninstall
 
 The `npm remove` command uninstalls a named package from its location. This is
 usually a `node_modules` folder within the folder where the command was run.
