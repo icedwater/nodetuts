@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  - class92 = ['Becks', 'Scholes', 'Giggs', 'Butt', 'Nevs']
+  ul
+    - each player in class92
+      li #{player} was a legend.

@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  - lionsxii = false
+  - if (lionsxii)
+   p Not worth watching. Watch the real national team instead.
+  - else
+   p Thanks for your support! Get in line and buy a ticket please.
